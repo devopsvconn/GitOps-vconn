@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: frontend-container
-        image: devopsvconn/devsecops-pipeline-demo:17
+        image: devopsvconn/devsecops-pipeline-demo:21
         ports:
         - containerPort: 3000
 
